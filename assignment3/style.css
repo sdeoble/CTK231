@@ -1,0 +1,30 @@
+body {
+    color: darkblue;
+}
+
+h1, h2, h3, h4 {
+    background-color: black;
+    color: white;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: yellow;
+}
+
+#contact-info {
+    background-color: lightgray;
+    border: 2px solid black;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
