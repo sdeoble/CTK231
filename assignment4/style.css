@@ -1,0 +1,50 @@
+body {
+    color: darkblue;
+    font-family: Helvetica, Arial, sans-serif;
+    background-image: url('sketchbook.JPG');
+    background-size: cover;
+    background-position: center;
+}
+
+h1, h2, h3, h4 {
+    background-color: black;
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: yellow;
+}
+
+#contact-info {
+    background-color: lightgray;
+    border: 2px solid black;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+img {
+    border: 6px solid black;
+    padding: 15px;
+    background-color: yellow;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.justify-text {
+    text-align: justify;
+}
