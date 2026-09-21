@@ -32,11 +32,13 @@ nav li {
 }
 
 nav a {
-    display: block;
+    display: inline-block;
     background-color: #00008B;
     color: white;
     text-decoration: none;
-    padding: 10px 30px;
+    text-align: left;
+    width: 135px;
+    padding: 10px 15px;
 }
 
 nav {
